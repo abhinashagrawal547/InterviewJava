@@ -1,3 +1,4 @@
+package MyPractice;
 
 public class SwapTwoNoWithoutThirdVariable {
 

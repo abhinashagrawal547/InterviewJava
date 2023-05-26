@@ -1,3 +1,4 @@
+package MyPractice;
 import java.util.ArrayList;
 import java.util.Scanner;
 

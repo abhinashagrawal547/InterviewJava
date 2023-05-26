@@ -1,3 +1,4 @@
+package MyPractice;
 public class VowelIsPresentInAString {
 	public static void main(String[] args) {
 		String str = new String("Abhinash");

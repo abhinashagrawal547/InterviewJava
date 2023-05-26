@@ -1,3 +1,4 @@
+package MyPractice;
 import java.util.Scanner;
 
 public class ArmstrongNumber {
