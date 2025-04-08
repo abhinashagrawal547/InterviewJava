@@ -1,6 +1,6 @@
 package MyPractice;
 
-public class CheckIfAListOfNosContainsOddNo {
+public class ListOfNosContainsOddNo {
 
 	public static void main(String[] args) {
 		int[] inputList = {11,13,17,15};
@@ -18,5 +18,4 @@ public class CheckIfAListOfNosContainsOddNo {
 		else
 			System.out.println("All numbers in the list are not odd.");
 	}
-
 }
